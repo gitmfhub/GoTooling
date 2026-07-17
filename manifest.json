@@ -4,8 +4,6 @@
   "description": "Click, Convert, Done.",
   "start_url": "https://gotooling.blogspot.com",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
   "icons": [
     {
       "src": "./logo192.png",
