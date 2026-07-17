@@ -1,0 +1,16 @@
+{
+  "name": "GoTooling",
+  "short_name": "GoTooling",
+  "description": "Click, Convert, Done.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge6VBLLHUqb_hDKJ0vEPrSfAec06NTYG1jHMN2tX18fk7uJFZoGnVoSHUphtFXoUfTYtJf_aq5D_rD6HodvM4cPP4nb9KA8RwWjt_bEqWanrTGOlVufHRb37sLWwzi2Gt-pTZhKOIykaO1m7gytUKVuInfc-sYjFEtdJ72moHmSVbfmvFotDwkn-PNgdE/s320/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
