@@ -8,13 +8,13 @@
   "theme_color": "#ffffff",
   "icons": [
   {
-    "src": "./logo.jpg",
+    "src": "./gotooling.jpg",
     "sizes": "512x512",
     "type": "image/jpg",
     "purpose": "maskable"
   },
   {
-    "src": "./logo.png",
+    "src": "./gotooling.jpg",
     "sizes": "512x512",
     "type": "image/jpg",
     "purpose": "any"
